@@ -67,6 +67,8 @@ public class LearnSetPositionTest{
 		Assert.assertEquals("Demo Web Shop. Electronics",driver.getTitle(),"Electronics Page Not Displayed.");
 		
 		Reporter.log("Electronics Page Displayed.");
+
+		System.out.println("done");
 		
 		driver.close();
 	}
