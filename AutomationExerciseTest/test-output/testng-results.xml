@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-16T21:23:20 IST" name="Default suite" finished-at="2025-08-16T21:23:27 IST" duration-ms="6606">
+    <groups>
+      <group name="smoke">
+        <method signature="LearnTestNGAnnotations.testngAnnotation()[pri:0, instance:practice.LearnTestNGAnnotations@3023df74]" name="testngAnnotation" class="practice.LearnTestNGAnnotations"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-08-16T21:23:20 IST" name="Default test" finished-at="2025-08-16T21:23:27 IST" duration-ms="6606">
+      <class name="practice.LearnTestNGAnnotations">
+        <test-method signature="testngAnnotation()[pri:0, instance:practice.LearnTestNGAnnotations@3023df74]" started-at="2025-08-16T21:23:20 IST" name="testngAnnotation" finished-at="2025-08-16T21:23:27 IST" duration-ms="6554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngAnnotation -->
+      </class> <!-- practice.LearnTestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
